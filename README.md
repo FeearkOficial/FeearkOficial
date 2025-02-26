@@ -1,4 +1,3 @@
-<div>
 <style>
     /* Define que o body ocupara toda a tela */
     body {
@@ -99,7 +98,7 @@
 
 </head>
 <body>
-
+ 
     <!--Imagens-->
 
     <div id="background"> <!-- Id para usar o style aonde desejo-->
@@ -159,7 +158,7 @@
             EVOLUINDO NO UNIVERSO DIGITAL.<br>
             SEJA BEM-VINDO AO MEU UNIVERSO TECNOLÓGICO! 🚀
         </p>
-</div>
+
 
 </body>
 </html>
