@@ -1,1 +1,3 @@
-<img src="https://feearkoficial.github.io" alt="completo">
+<div>
+  <img src="https://feearkoficial.github.io/" alt="logo">
+</div>
