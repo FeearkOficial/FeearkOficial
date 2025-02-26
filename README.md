@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>github</title>
-
+<div>
 <style>
     /* Define que o body ocupara toda a tela */
     body {
@@ -169,5 +163,7 @@
 
 </body>
 </html>
+</div>
+
 
 ![GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
