@@ -132,6 +132,6 @@
 ### 🤖 Estatísticas
 <div class="estatistica">
 <a href="https://github.com/FeearkOficial">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=FeearkOficial&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeearkOficial&layout=compact&langs_count=16&theme=gruvbox"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=FeearkOficial&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeearkOficial&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
