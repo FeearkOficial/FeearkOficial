@@ -127,6 +127,7 @@
 <br/>
 <br/>
 
+---
 
 ### 🤖 Estatísticas
 <div class="estatistica">
