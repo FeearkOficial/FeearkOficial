@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá, eu sou Weslley Victor
-### **Desenvolvedor FullStack | COE do Cortex Studio | CIO da NeuroZen Code**
+### **Desenvolvedor FullStack | CEO do Cortex Studio | CIO da NeuroZen Code**
  
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5D3FD3&width=735&lines=Transformando+ideias+em+realidade+digital" alt="Header Animation">
