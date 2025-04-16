@@ -8,7 +8,7 @@
 ---
 
 
-## 💻 **O Que Eu Faço**
+### 💻 **O Que Eu Faço**
 ## 🌐 **Desenvolvimento Web & Mobile**
 Construo aplicações completas com:
 - Front-end responsivo (React, HTML/CSS)
