@@ -7,8 +7,8 @@
  
 ---
 
+
 ## 💻 **O Que Eu Faço**
- 
 ## 🌐 **Desenvolvimento Web & Mobile**
 Construo aplicações completas com:
 - Front-end responsivo (React, HTML/CSS)
@@ -21,7 +21,7 @@ Minha empresa focada em:
 - Projetos Revolucionários 
 - Inovação digital
 
-## 🚀 **Cortex Studio**
+## 💻 **Cortex Studio**
 Minha empresa focada em:
 - Manuntenção de Computadores 
 - Otimização de Sistema 
