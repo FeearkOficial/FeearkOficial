@@ -1,10 +1,33 @@
-# Weslley Victor
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá, eu sou Weslley Victor
+### **Desenvolvedor FullStack | COE do Cortex Studio | CIO da NeuroZen Code**
+ 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5D3FD3&width=735&lines=Transformando+ideias+em+realidade+digital" alt="Header Animation">
+</div>
+ 
+---
 
-**`Desenvolvedor FullStack`**
- # OLÁ, SOU WESLLEY VICTOR
-`SOU APAIXONADO POR TECNOLOGIA, INOVAÇÃO E SOLUÇÕES INTELIGENTES. COMO DESENVOLVEDOR FULLSTACK NO CORTEX STUDIO, OFEREÇO SERVIÇOS ESPECIALIZADOS EM MANUTENÇÃO DE COMPUTADORES, OTIMIZAÇÃO DE SISTEMAS, SEGURANÇA DIGITAL E   DESENVOLVIMENTO WEB.
- COM UMA SÓLIDA EXPERIÊNCIA EM DESENVOLVIMENTO FULLSTACK, BUSCO CRIAR SOLUÇÕES MODERNAS, EFICIENTES E ESCALÁVEIS, ATENDENDO ÀS NECESSIDADES ESPECÍFICAS DE CADA CLIENTE. ESTOU SEMPRE EM BUSCA DE NOVOS DESAFIOS E  OPORTUNIDADES PARA TRANSFORMAR IDEIAS EM REALIDADE E CONTINUAR EVOLUINDO NO UNIVERSO DIGITAL.`
- # `SEJA BEM-VINDO AO MEU UNIVERSO TECNOLÓGICO! 🚀`
+## 💻 **O Que Eu Faço**
+ 
+## 🌐 **Desenvolvimento Web & Mobile**
+Construo aplicações completas com:
+- Front-end responsivo (React, HTML/CSS)
+- Back-end eficiente (Node.js, Python)
+- Bancos de dados otimizados
+ 
+## 🚀 **NeuroZen Code**
+Minha empresa focada em:
+- Soluções tecnológicas criativas
+- Projetos Revolucionários 
+- Inovação digital
+
+## 🚀 **Cortex Studio**
+Minha empresa focada em:
+- Manuntenção de Computadores 
+- Otimização de Sistema 
+- Segurança de Redes
+ 
+Vamos conectar e criar algo épico! 👨💻⚡
 
 <p align="left">
     <a href="https://www.youtube.com/@feeark3202?sub_confirmation=1">
@@ -135,3 +158,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FeearkOficial&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeearkOficial&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
+
+
+
+
