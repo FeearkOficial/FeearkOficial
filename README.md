@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá, eu sou Weslley Victor
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> <h1>Olá, eu sou Weslley Victor</h1>
 
 </div>
 <div align="center">
